@@ -1,14 +1,7 @@
 {
   "name": "URL Uploader",
   "description": "Telegram's Open Source URL Uploader Bot. Create your own Bot",
-  "keywords": [
-    "telegram",
-    "url",
-    "uploader"
-  ],
-  "success_url": "https://telegram.dog/AnyDLBot",
-  "website": "https://github.com/Boburjon04",
-  "repository": "https://github.com/Boburjon04/uploader0404",
+  
   "env": {
     "WEBHOOK": {
       "description": "Leave this as it is!",
